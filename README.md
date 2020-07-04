@@ -1,4 +1,4 @@
-# Über BallsInATemple:
+# Über Balls In A Temple:
 
 Dies ist ein Android-Spiel, die ich zurzeit programmiere.
 Das Spiel heißt Balls in a temple und ist ein 3D-Platformer,
